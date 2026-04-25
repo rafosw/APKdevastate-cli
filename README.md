@@ -1,9 +1,9 @@
 # APKdevastate CLI
 
-![Repo Size](https://img.shields.io/github/repo-size/rafosw/APKdevastate)
-![Stars](https://img.shields.io/github/stars/rafosw/APKdevastate?style=social)
-![Forks](https://img.shields.io/github/forks/rafosw/APKdevastate?style=social)
-![Issues](https://img.shields.io/github/issues/rafosw/APKdevastate)
+![Repo Size](https://img.shields.io/github/repo-size/rafosw/APKdevastate-cli)
+![Stars](https://img.shields.io/github/stars/rafosw/APKdevastate-cli?style=social)
+![Forks](https://img.shields.io/github/forks/rafosw/APKdevastate-cli?style=social)
+![Issues](https://img.shields.io/github/issues/rafosw/APKdevastate-cli)
 
 <p align="center">
   <img src="https://github.com/rafosw/APKdevastate/blob/master/ss/fireandroid.gif?raw=true" alt="APKdevastate Banner" width="200"/>
@@ -12,6 +12,8 @@
 **APKdevastate CLI** is a powerful Linux C++17 command-line application designed to analyze Android APK files for security risks, malware signatures, and suspicious behaviors. The tool helps identify potentially malicious applications by examining permissions, certificate information, and known Remote Access Trojan (RAT) signatures.
 
 The application may be detected as infected by Anti-Virus because it contains RAT names.
+
+**GUI Version for Windows**: [https://github.com/rafosw/APKdevastate](https://github.com/rafosw/APKdevastate)
 
 ---
 
@@ -86,7 +88,5 @@ Run the tool from the terminal by providing the path to an APK file.
 ## Support the Project
 
 Love APKdevastate? Give us a star on GitHub!
-
-GUI Version for Windows: [https://github.com/rafosw/APKdevastate](https://github.com/rafosw/APKdevastate)
 
 > **Disclaimer**: APKdevastate does not guarantee 100% accuracy in all detections or results. Use at your own discretion.
