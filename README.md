@@ -60,7 +60,7 @@ chmod +x build.sh
 Run the tool from the terminal by providing the path to an APK file.
 
 ```bash
-./apkdevastate <file.apk>
+./apkdevastate --scan <file.apk>
 ```
 
 ### Options
