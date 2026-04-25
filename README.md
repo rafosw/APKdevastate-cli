@@ -11,8 +11,6 @@
 
 **APKdevastate CLI** is a powerful Linux C++17 command-line application designed to analyze Android APK files for security risks, malware signatures, and suspicious behaviors. The tool helps identify potentially malicious applications by examining permissions, certificate information, and known Remote Access Trojan (RAT) signatures.
 
-The application may be detected as infected by Anti-Virus because it contains RAT names.
-
 **GUI Version for Windows**: [https://github.com/rafosw/APKdevastate](https://github.com/rafosw/APKdevastate)
 
 ---
