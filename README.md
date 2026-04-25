@@ -19,14 +19,9 @@ The application may be detected as infected by Anti-Virus because it contains RA
 
 # Sample view of the software
 
-## Payload Alert
-<img src="https://github.com/rafosw/APKdevastate/blob/master/ss/Screenshot_2.png" width="600" height="350" />
+<img src="https://github.com/rafosw/APKdevastate-cli/blob/main/ss/Screenshot_1.png" width="600" height="350" />
 
-## Malicious Alert
-<img src="https://github.com/rafosw/APKdevastate/blob/master/ss/Screenshot_4.png" width="600" height="350" />
-
-## Clean APK
-<img src="https://github.com/rafosw/APKdevastate/blob/master/ss/Screenshot_3.png" width="600" height="350" />
+<img src="https://github.com/rafosw/APKdevastate-cli/blob/main/ss/Screenshot_2.png" width="600" height="350" />
 
 
 ## Features
