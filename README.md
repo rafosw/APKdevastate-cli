@@ -82,13 +82,6 @@ Run the tool from the terminal by providing the path to an APK file.
   --help                    Show help menu
 ```
 
-### Example Usage
-
-```bash
-./apkdevastate --scan target_app.apk
-```
-
----
 
 ## Support the Project
 
